@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PLL Мастер</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_training3">по 3-м сторонам</string>
+    <string name="menu_training2beginner">по 2-м сторонам для начинающих</string>
+    <string name="menu_training2advanced">по 2-м сторонам</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>

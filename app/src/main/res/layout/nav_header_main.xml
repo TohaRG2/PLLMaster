@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/side_nav_bar"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="20dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:orientation="horizontal"
+        android:gravity="top">
+
+    <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            app:srcCompat="@drawable/cube"
+            android:contentDescription="@string/nav_header_desc"
+            android:id="@+id/imageView"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/nav_header_vertical_spacing"
+            android:orientation="vertical">
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="@dimen/nav_header_vertical_spacing"
+                android:text="@string/nav_header_title"
+                android:textSize="24sp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1" android:textStyle="bold"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nav_header_subtitle"
+                android:autoLink="email"
+                android:clickable="true"
+                android:focusable="true"
+                android:id="@+id/textView"/>
+    </LinearLayout>
+
+
+</LinearLayout>

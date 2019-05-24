@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_training3"
+                android:icon="@drawable/ic_3pll_icon_wide_new_mono2"
+                android:title="@string/menu_training3"/>
+        <item
+                android:id="@+id/nav_training2beginner"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/menu_training2beginner"/>
+        <item
+                android:id="@+id/nav_training2advanced"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_training2advanced"/>
+        <item
+                android:id="@+id/nav_tools"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/menu_tools"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="@string/menu_share"/>
+            <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/menu_send"/>
+        </menu>
+    </item>
+
+</menu>

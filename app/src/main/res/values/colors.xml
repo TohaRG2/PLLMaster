@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C3C3C</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#BEB345</color>
+    //
+    <color name="g_transparent">#00000000</color>
+    <color name="g_black">#FF000000</color>
+    <color name="g_white">#FFFFFFFF</color>
+    <color name="g_yellow">#FFFFDB11</color>
+    <color name="g_red">#FFD0021B</color>
+    <color name="g_green">#FF009A0E</color>
+    <color name="g_orange">#FFFF8100</color>
+    <color name="g_blue">#FF025AC1</color>
+
+    <color name="g_darkgrey">#66B5B5B5</color>
+    <color name="g_lightgrey">#FF888888</color>
+
+    <color name="g_buttongrey">#FFC4C4C4</color>
+
+    //cube colours
+    <color name="cube_grey">#FF7D7D7D</color>
+    <color name="cube_black">#FF000000</color>
+    <color name="cube_white">#FFFFFFFF</color>
+    <color name="cube_yellow">#FFFFDB11</color>
+    <color name="cube_red">#FFD0021B</color>
+    <color name="cube_green">#FF009A0E</color>
+    <color name="cube_orange">#FFFF8100</color>
+    <color name="cube_blue">#FF025AC1</color>
+
+
+    //
+    <color name="blue">#008DD2</color>
+    <color name="c_lb">#4fc3f7</color>
+    <color name="green">#00F200</color>
+    <color name="c_lg">#00F200</color>
+    <color name="pink">#ea80fc</color>
+    <color name="c_p">#ea80fc</color>
+    <color name="red">#F20000</color>
+    <color name="yellow">#ffff00</color>
+    <color name="c_ly">#fff59d</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#FF9800</color>
+    <color name="black">#FF000000</color>
+    <color name="c_bl">#FF000000</color>
+    <color name="dark_gray">#424242</color>
+    <color name="c_dgr">#424242</color>
+    <color name="dark_blue">#1a237e</color>
+    <color name="c_db">#1a237e</color>
+    <color name="c_v">#651fff</color>
+
+    <color name="c_b">#0062AC</color>
+
+    <color name="c_g">#009846</color>
+
+    <color name="c_r">#E31E24</color>
+
+    <color name="c_o">#EF7F1A</color>
+
+    <color name="c_y">#FFED00</color>
+    <color name="c_yd">#837b3c</color>
+
+    <color name="c_w">#FFFFFF</color>
+    <color name="cube_gray">#424242</color>
+    <color name="m_gr">#424242</color>
+    <color name="m_l">#9e9e9e</color>
+    <color name="cube_ollgray">#696969</color>
+    <color name="c_gr">#696969</color>
+    <color name="cube_litegray">#9e9e9e</color>
+    <color name="c_lgr">#bdbdbd</color>
+
+    <color name="semitransparent_grey">#cc424242</color>
+</resources>
