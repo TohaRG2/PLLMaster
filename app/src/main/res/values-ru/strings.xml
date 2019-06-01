@@ -8,6 +8,11 @@
     <string name="menu_training2advanced">по 2-м сторонам</string>
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <string name="menu_about_app">О приложении</string>
 
+    <string name="about_app_version">v0.1.190318.1</string>
+    <string name="about_developer">Разработка: Масленников Андрей</string>
+    <string name="about_contributors">Соавторы</string>
+    <string name="about_send_feedback">Написать письмо разработчику</string>
+    <string name="about_rate_app">Оценить приложение в Google Play</string>
 </resources>

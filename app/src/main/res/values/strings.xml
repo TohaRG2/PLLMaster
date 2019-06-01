@@ -12,5 +12,10 @@
     <string name="menu_training2advanced">2 side advanced</string>
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <string name="menu_about_app">About App</string>
+    <string name="about_app_version">v0.1.190318.1</string>
+    <string name="about_contributors">Contributors</string>
+    <string name="about_developer">Developed by Andrew Maslennikov</string>
+    <string name="about_rate_app">Rate App in Google Play</string>
+    <string name="about_send_feedback">Send e-mail to support</string>
 </resources>

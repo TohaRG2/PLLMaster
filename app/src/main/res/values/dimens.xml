@@ -5,4 +5,21 @@
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <dimen name="nav_header_height">100dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Font sizes for autosize -->
+    <array name="autosize_text_sizes">
+        <item>6sp</item>
+
+        <item>10sp</item>
+
+        <item>14sp</item>
+
+        <item>36sp</item>
+        <item>48sp</item>
+        <item>56sp</item>
+
+
+
+    </array>
+
 </resources>

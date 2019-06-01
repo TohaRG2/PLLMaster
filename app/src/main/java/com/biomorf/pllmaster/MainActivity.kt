@@ -1,5 +1,6 @@
 package com.biomorf.pllmaster
 
+import android.content.Intent
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
@@ -78,9 +79,12 @@ class MainActivity : MyDefaultActivity(), NavigationView.OnNavigationItemSelecte
             R.id.nav_share -> {
 
             }
-            R.id.nav_send -> {
+            R.id.nav_about_app -> {
+                val intent = Intent(this, AboutAppActivity::class.java)
+                startActivity(intent)
 
             }
+
         }
         val drawerLayout: DrawerLayout = findViewById(R.id.drawer_layout)
         drawerLayout.closeDrawer(GravityCompat.START)
