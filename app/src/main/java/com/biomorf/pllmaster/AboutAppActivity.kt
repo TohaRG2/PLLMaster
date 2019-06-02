@@ -3,7 +3,7 @@ package com.biomorf.pllmaster
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class AboutAppActivity : AppCompatActivity() {
+class AboutAppActivity : MyDefaultActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
